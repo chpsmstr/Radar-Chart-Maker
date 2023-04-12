@@ -26,6 +26,8 @@ print(angles)
 angles=np.concatenate((angles,[angles[0]]))
 print(angles)
 
+# HARDCOED FOR NOW DON'T JUDGE
+
 categories.append(categories[0])
 data["Ankkit"].append(data["Ankkit"][0])
 
